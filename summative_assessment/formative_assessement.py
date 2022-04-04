@@ -8,7 +8,7 @@ class Person:
     def __repr__(self) -> str:
         return f"Name: {self.name}, DOB: {self.dob}, Age: {self.age()}"
 
-    def 
+
     #method to claculate the person's age
     def age(self) -> int:
         #calcualte the age
